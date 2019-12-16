@@ -1,6 +1,6 @@
 cask 'font-awesome-5-pro' do
-  version '5.11.1'
-  sha256 '1d126bc1a2bd7edf77a7a54dbf66a1a710278afe485b3aeeb3464f9bf8c3cc4d'
+  version '5.12.0'
+  sha256 'bbbcd05c78cbecbdbf3880d4d5ca7686205b8e13934cf7ca346ba07e61314f0b'
 
   url "https://#{File.read(File.expand_path('~/.cask-repository')).chomp}/Fonts/Font%20Awesome%205%20Pro/fontawesome-pro-#{version}-desktop.zip"
   name 'Font Awesome 5 Pro'
