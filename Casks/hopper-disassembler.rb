@@ -1,6 +1,6 @@
 cask 'hopper-disassembler' do
-  version '4.5.19'
-  sha256 'dfa66e57e839288976740d3a31eb0f7f5406eaa078e539780a29832736f3b1ab'
+  version '4.5.28'
+  sha256 '6fe10505613229f942d1906bd6ed93f61ef3479377bcdc7e25699b11e9d2f6b3'
 
   url "https://#{File.read(File.expand_path('~/.cask-repository')).chomp}/Applications/macOS/Hopper%20Disassembler/Hopper-#{version}.dmg"
   name 'Hopper Disassembler'
