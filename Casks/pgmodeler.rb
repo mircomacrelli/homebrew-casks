@@ -1,6 +1,6 @@
 cask 'pgmodeler' do
-  version '0.9.3-beta1'
-  sha256 '2e686f4dc0ba583de31cad60e3cc601899f11b2c1768f2635a300e9957e9a309'
+  version '0.9.3'
+  sha256 '556dc54392c6bb30a70a6f5cabc53fc23e49d9fa32c6a21279f238cf781eb2cb'
 
   url "https://#{File.read(File.expand_path('~/.cask-repository')).chomp}/Applications/macOS/pgModeler/pgmodeler-#{version}-macos.dmg"
   name 'pgModeler'
