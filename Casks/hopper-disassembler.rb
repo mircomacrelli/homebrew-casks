@@ -6,5 +6,5 @@ cask 'hopper-disassembler' do
   name 'Hopper Disassembler'
   homepage 'https://www.hopperapp.com/'
 
-  app 'Hopper Disassembler.app'
+  app 'Hopper Disassembler v4.app'
 end
