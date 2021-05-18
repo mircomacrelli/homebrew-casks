@@ -1,6 +1,6 @@
 cask 'pragmatapro' do
-  version '0.828'
-  sha256 '23ca2674fcb850df0020aec0a0f1c241cf7c2f27248591611533b5d71b6806a7'
+  version '0.829'
+  sha256 '41bb7b9ba2516aee45818c2e87cf5d6af1b010b1d44886eed1dfd1bdda0b17f4'
 
   url "https://#{File.read(File.expand_path('~/.cask-repository')).chomp}/Fonts/PragmataPro/PragmataPro#{version}.zip"
   name 'PragmataPro'
